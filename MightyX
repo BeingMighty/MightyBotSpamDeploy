@@ -36,7 +36,7 @@ start_bot () {
     rm -rf "$zippath"
     sleep 5
     cd $HELLPATH
-    echo "  ⚡ Starting MightyXSpam ⚡  "
+    echo "  ⚡ Starting StarXSpam ⚡  "
     echo """
 
 .##.....##.####..######...##.....##.########.##....##
