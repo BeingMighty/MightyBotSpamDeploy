@@ -1,5 +1,5 @@
 {
-    "name": "Mighty X BotSpam",
+    "name": " StarXBotSpam",
     "description": "MOST POWERFUL & STABLE SPAMBOTS",
     "logo": "https://te.legra.ph/file/8ec14b0474eeb64987bc0.jpg",
     "keywords": [
@@ -11,7 +11,7 @@
     ],
     "repository": "https://github.com/BeingMighty/MightyXBotSpam",
     "website": "https://github.com/BeingMighty",
-    "success_url": "https://t.me/MightyXSupport",
+    "success_url": "https://t.me/itz_stargirl",
     "env": {
              "API_ID": {
         "description": "Fill Api ID Take This Value From my.telegram.org",
